@@ -1,0 +1,10 @@
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\bin\Debug\LawBlog.Utilities.exe.config
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\bin\Debug\LawBlog.Utilities.exe
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\bin\Debug\LawBlog.Utilities.pdb
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\bin\Debug\Ninject.dll
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\bin\Debug\Newtonsoft.Json.xml
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\bin\Debug\Ninject.xml
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\obj\Debug\LawBlog.Utilities.csprojResolveAssemblyReference.cache
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\obj\Debug\LawBlog.Utilities.exe
+D:\Users\vikto\Documents\Visual Studio 2015\Projects\Estudo\LawBlog\LawBlog.Utilities\obj\Debug\LawBlog.Utilities.pdb

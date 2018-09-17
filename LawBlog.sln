@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawBlog.Service", "LawBlog\LawBlog.Service.csproj", "{89B24C58-2E5A-43DD-B898-4F71F70ADA93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Service", "1 - Service", "{CF44E76E-FB9C-4A4A-8DF9-7F8B80976603}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Business", "2 - Business", "{64498640-D575-44ED-BDA3-49257206D227}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{78D0FE2A-D460-412B-B11A-8CDF96D7638F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Utilities", "4 - Utilities", "{64E0E009-A928-42DB-A4EE-86CB00D70A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectorProject", "InjectorProject\InjectorProject.csproj", "{842AF7BA-5382-4E01-B2A8-D7A057550828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawBlog.Business", "LawBlog.Business\LawBlog.Business.csproj", "{A81691E0-D617-4E34-8A15-2EB5F16F06D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawBlog.Infrastructure", "LawBlog.Infrastructure\LawBlog.Infrastructure.csproj", "{5BD8CC3C-2126-4916-A0B2-57B3D959C400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawBlog.Utilities", "LawBlog.Utilities\LawBlog.Utilities.csproj", "{515B03C1-7329-499B-98C0-6C2CB9EC27E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B24C58-2E5A-43DD-B898-4F71F70ADA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B24C58-2E5A-43DD-B898-4F71F70ADA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B24C58-2E5A-43DD-B898-4F71F70ADA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B24C58-2E5A-43DD-B898-4F71F70ADA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842AF7BA-5382-4E01-B2A8-D7A057550828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842AF7BA-5382-4E01-B2A8-D7A057550828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842AF7BA-5382-4E01-B2A8-D7A057550828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842AF7BA-5382-4E01-B2A8-D7A057550828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81691E0-D617-4E34-8A15-2EB5F16F06D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81691E0-D617-4E34-8A15-2EB5F16F06D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81691E0-D617-4E34-8A15-2EB5F16F06D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81691E0-D617-4E34-8A15-2EB5F16F06D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD8CC3C-2126-4916-A0B2-57B3D959C400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD8CC3C-2126-4916-A0B2-57B3D959C400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD8CC3C-2126-4916-A0B2-57B3D959C400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD8CC3C-2126-4916-A0B2-57B3D959C400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515B03C1-7329-499B-98C0-6C2CB9EC27E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515B03C1-7329-499B-98C0-6C2CB9EC27E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515B03C1-7329-499B-98C0-6C2CB9EC27E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515B03C1-7329-499B-98C0-6C2CB9EC27E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89B24C58-2E5A-43DD-B898-4F71F70ADA93} = {CF44E76E-FB9C-4A4A-8DF9-7F8B80976603}
+		{842AF7BA-5382-4E01-B2A8-D7A057550828} = {64498640-D575-44ED-BDA3-49257206D227}
+		{A81691E0-D617-4E34-8A15-2EB5F16F06D1} = {64498640-D575-44ED-BDA3-49257206D227}
+		{5BD8CC3C-2126-4916-A0B2-57B3D959C400} = {78D0FE2A-D460-412B-B11A-8CDF96D7638F}
+		{515B03C1-7329-499B-98C0-6C2CB9EC27E1} = {64E0E009-A928-42DB-A4EE-86CB00D70A18}
+	EndGlobalSection
+EndGlobal
